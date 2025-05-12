@@ -15,4 +15,4 @@
 <p align="left"> 
 <img src="https://docs.flutter.dev/assets/images/branding/flutter/logo/default.svg" alt="Flutter" width="40" height="40"/> </a> <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
 <img src="https://docs.flutter.dev/assets/images/branding/dart/logo.svg" alt="Dart" width="40" height="40"/> </a> <a href="https://dart.dev/" target="_blank" rel="noreferrer"> 
-<img src="https://www.gstatic.com/devrel-devsite/prod/ve761bca974e16662f27aa8810df6d144acde5bdbeeca0dfd50e25f86621eaa19/android/images/lockup.svg" alt="Dart" width="100" height="40"/> </a> <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> 
+<img src="https://img.icons8.com/?size=96&id=P2AnGyiJxMpp&format=png" alt="Android Studio" height="40"/> </a> <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> 
